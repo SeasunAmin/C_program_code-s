@@ -1,0 +1,7 @@
+#include<stdio.h>
+int main()
+{
+    for (int i;i<10;i++)
+        printf("SEASUN\n");
+
+}
